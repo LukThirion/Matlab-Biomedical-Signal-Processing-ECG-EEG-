@@ -1,0 +1,13 @@
+# Ignore autosave and backup files
+*.asv
+*.m~
+*.mat
+*.fig
+
+# Ignore Simulink build artifacts
+*.slprj/
+*.mex*
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
